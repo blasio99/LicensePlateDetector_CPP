@@ -654,8 +654,8 @@ int main()
 			double hr = fullHeight / height * 1.0;
 			double wr = fullWidth / width * 1.0;
 
-			//[EXPERIMENT]
-			//modify these ratios to get bigger spectre / better results
+			// [EXPERIMENT]
+			// modify these ratios to get bigger spectre / better results
 			// full / plate axis ratios
 			if (hr > 3.5 && wr > 1.5) {
 				// for the license plate ratio
